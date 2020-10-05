@@ -1,20 +1,20 @@
 # customKPI
-Open Api to configure and send custom KPI to be stored. 
+
+Open Api to configure and send custom KPI to be stored.
 Later you can use it to create time objective.
 
 ## Stack
+
 - NodeJS
 - Express
 - MongoDB
 
 ## To Do
 
-- get token?
+- [X] update value Kpi
 
-- create kpi
+- [X] get kpi(s)
 
-- update kpi
+- [ ] create kpi
 
-- get kpi(s)
-
-- delete kpi
+- [ ] delete kpi
