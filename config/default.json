@@ -1,0 +1,7 @@
+{
+  "env": "dev",
+  "poolSize": 10,
+  "collections": {
+    "customKpi": "customKpi"
+  }
+}
